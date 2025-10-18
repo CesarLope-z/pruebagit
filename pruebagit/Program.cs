@@ -3,3 +3,6 @@ Console.WriteLine("Hello, World!");
 
 console.WriteLine("Este es un mensaje de prueba de cesar");
 console.WriteLine("Intenta poner un console con tu nombre y subelo a github ");
+
+console.WriteLine("Este es un mensaje de prueba de cesar2");
+console.WriteLine("desde otra cuenta de github");
